@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gestor Turnos Laundry</string>
+    <string name="next_booking">Próximo Turno</string>
+    <string name="my_bookings">Mis Reservas</string>
+    <string name="no_bookings">No hay turnos programados</string>
+    <string name="machine">Máquina</string>
+    <string name="time">Horario</string>
+    <string name="status">Estado</string>
+    <string name="reserved">Reservado</string>
+    <string name="in_use">En Uso</string>
+    <string name="completed">Completado</string>
+    <string name="cancelled">Cancelado</string>
+</resources>
